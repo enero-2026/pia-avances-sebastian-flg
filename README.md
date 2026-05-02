@@ -1,5 +1,6 @@
 # react-camara
 
+
 Guía paso a paso para crear una aplicación **React Native / Expo** con un botón de cámara que dispare la cámara del dispositivo al probarse en **Expo GO**.
 
 > Basado en la documentación oficial: https://docs.expo.dev/versions/latest/sdk/camera/
